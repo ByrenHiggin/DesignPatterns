@@ -2,12 +2,12 @@
 using System;
 using System.Reflection;
 using Autofac;
-using SOLIDPrinciples.OpenClosed;
+using DesignPatterns.OpenClosed;
 using System.Security.Principal;
-using SOLIDPrinciples.generic;
-using SOLIDPrinciples.interfaces;
+using DesignPatterns.generic;
+using DesignPatterns.interfaces;
 
-namespace SOLIDPrinciples.Tests
+namespace DesignPatterns.Tests
 {
     public class OpenClosed_WhenRun : TestBase
     {

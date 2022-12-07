@@ -1,11 +1,11 @@
 ﻿using Autofac;
-using SOLIDPrinciples.generic;
-using SOLIDPrinciples.interfaces;
+using DesignPatterns.generic;
+using DesignPatterns.interfaces;
 using System.Linq;
 using Xunit;
 using Xunit.Abstractions;
 
-namespace SOLIDPrinciples.Tests
+namespace DesignPatterns.Tests
 {
     public class Creating_a_journal
     {

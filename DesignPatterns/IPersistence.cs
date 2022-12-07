@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace SOLIDPrinciples.interfaces
+namespace DesignPatterns.interfaces
 {
     internal interface IPersistence
     {

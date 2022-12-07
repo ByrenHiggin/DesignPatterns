@@ -1,9 +1,9 @@
 ﻿using Autofac;
-using SOLIDPrinciples.generic;
-using SOLIDPrinciples.interfaces;
+using DesignPatterns.generic;
+using DesignPatterns.interfaces;
 using System.Collections.Generic;
 
-namespace SOLIDPrinciples.OpenClosed
+namespace DesignPatterns.OpenClosed
 {
 
     public class ProductFilter

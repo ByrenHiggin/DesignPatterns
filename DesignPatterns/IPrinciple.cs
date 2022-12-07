@@ -1,8 +1,8 @@
 ﻿using Autofac;
-using SOLIDPrinciples.interfaces;
+using DesignPatterns.interfaces;
 using System;
 
-namespace SOLIDPrinciples.interfaces
+namespace DesignPatterns.interfaces
 {
     public interface IPrinciple
     {
@@ -10,7 +10,7 @@ namespace SOLIDPrinciples.interfaces
     }
 }
 
-namespace SOLIDPrinciples.generic
+namespace DesignPatterns.generic
 {
     public class Principle : Module, IPrinciple
     {

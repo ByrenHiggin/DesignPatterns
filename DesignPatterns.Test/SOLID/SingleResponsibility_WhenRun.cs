@@ -1,13 +1,13 @@
 ﻿using Xunit;
 using System;
-using SOLIDPrinciples;
+using DesignPatterns;
 using Autofac;
 using System.Security.Principal;
-using SOLIDPrinciples.interfaces;
-using SOLIDPrinciples.generic;
+using DesignPatterns.interfaces;
+using DesignPatterns.generic;
 using System.Linq;
 
-namespace SOLIDPrinciples.Tests
+namespace DesignPatterns.Tests
 {
     public class SingleResponsibility_WhenRun
     {

@@ -1,6 +1,6 @@
-﻿using SOLIDPrinciples.generic;
+﻿using DesignPatterns.generic;
 
-namespace SOLIDPrinciples.interfaces
+namespace DesignPatterns.interfaces
 {
     public interface IData
     {

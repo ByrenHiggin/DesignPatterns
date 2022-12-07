@@ -1,9 +1,9 @@
-﻿using SOLIDPrinciples.interfaces;
+﻿using DesignPatterns.interfaces;
 using System.IO;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace SOLIDPrinciples.persistence
+namespace DesignPatterns.persistence
 {
     //So we have a seperate class to handle the "persistance" of the data.
     public class Persistence : IPersistence

@@ -1,7 +1,7 @@
-﻿using SOLIDPrinciples.interfaces;
+﻿using DesignPatterns.interfaces;
 using System.Collections.Generic;
 
-namespace SOLIDPrinciples.generic
+namespace DesignPatterns.generic
 {
     public class JournalEnum : IEnumerator<IData>
     {

@@ -1,9 +1,9 @@
 ﻿using Autofac;
-using SOLIDPrinciples.generic;
-using SOLIDPrinciples.interfaces;
+using DesignPatterns.generic;
+using DesignPatterns.interfaces;
 using static System.Console;
 
-namespace SOLIDPrinciples.SingleResponsibility
+namespace DesignPatterns.SingleResponsibility
 {
     public class SOLID_SingleResponsibility_Principle : Principle
     {

@@ -1,10 +1,10 @@
-﻿using SOLIDPrinciples.interfaces;
+﻿using DesignPatterns.interfaces;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace SOLIDPrinciples.generic
+namespace DesignPatterns.generic
 {
     [Serializable]
     public class Journal : IInteractableObject

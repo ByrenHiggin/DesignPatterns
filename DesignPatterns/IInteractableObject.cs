@@ -1,8 +1,8 @@
-﻿using SOLIDPrinciples.generic;
+﻿using DesignPatterns.generic;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace SOLIDPrinciples.interfaces
+namespace DesignPatterns.interfaces
 {
     public interface IInteractableObject : IEnumerable<IData>, ISerializable
     {

@@ -1,7 +1,7 @@
-﻿using SOLIDPrinciples.interfaces;
+﻿using DesignPatterns.interfaces;
 using System;
 
-namespace SOLIDPrinciples.generic
+namespace DesignPatterns.generic
 {
     public enum Color
     {
